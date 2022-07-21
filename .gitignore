@@ -1,0 +1,4 @@
+settings.py
+/mysite/__pycache__
+/media
+/mysite/news/__pycache__
